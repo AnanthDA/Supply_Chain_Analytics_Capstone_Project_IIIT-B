@@ -1,4 +1,4 @@
-### Supply_Chain_Analytics_Capstone_Project_IIIT-B
+### Synopsis: -
 
 The open-pit mine is facing problems of inefficient production and is losing customers' trust as they are not able to meet their demands even though there has been no surge in demand. The mine operators are sure that this is a problem at their end and want to first understand their tracking and operations on the field in detail, as it is not possible to keep track of all operations at one go due to the vast expanse of the mine.
 
