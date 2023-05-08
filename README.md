@@ -18,8 +18,8 @@ As an analyst, you have been approached to build a smart live monitoring system.
 - Once it is done, the cleaned datasets are imported into MySQL Workbench for creating a stored procedure for each table and perform OEE calculations along with it.
 - These formulae are applied for all the datasets repectively.
 - OEE Calculations: -
-Availability = (Net Available Time - Down Time) / (Net available time) * 100
-Performance  = (Operating Time - Speed Loses) / (Operating Time) * 100
-Quality      = (Net Operating Time - Defect Loses) / (Net Operating Loss) * 100
-OEE = Availability * Performance * Quality
+- Availability = (Net Available Time - Down Time) / (Net available time) * 100
+- Performance  = (Operating Time - Speed Loses) / (Operating Time) * 100
+- Quality      = (Net Operating Time - Defect Loses) / (Net Operating Loss) * 100
+- OEE = Availability * Performance * Quality
 - Finally, with the help of Tableau all the datasets are imported to find the Equipment Level Production, Efficiency, Accuracy, Quality of Equipments, Key Metrics of Low Performing Equipments and Top Performing Equipments.
